@@ -3,7 +3,7 @@
     
   </tr>
 </table>
-<p align="center">
+<p >
   <strong style="font-size: 1.25rem;">Desenvolvedor Back-End ♨️</strong>
   <br/>
 <br/>
