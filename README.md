@@ -36,13 +36,4 @@
 </div>
 <br/>
 <br/>
-<table>
-  <tr>
-       </tr>
-         <tr>
-    <td>
-      <img  
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=Yan-Arthur&layout=compact&langs_count=4&show_icons=true&bg_color=0D1B2A&title_color=1E90FF&text_color=A9D6E5&border_radius=5&border_color=1E90FF"
-        alt="Top languages for Yan-Arthur"
-      />
-    </td>
+
